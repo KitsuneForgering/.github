@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">KitsuneForgering mark</title>
+  <desc id="desc">A copper fox face with a small forge spark on a charcoal background</desc>
+  <rect width="128" height="128" rx="28" fill="#171b24"/>
+  <path d="M20 49 29 17 50 38a48 48 0 0 1 28 0l21-21 9 32c0 31-18 53-44 64C38 102 20 80 20 49Z" fill="#d97736"/>
+  <path d="m31 48 4-17 12 13-7 14Zm66 0-4-17-12 13 7 14Z" fill="#8d3d2d"/>
+  <path d="M25 70c7 11 19 16 39 16s32-5 39-16c-4 20-19 34-39 43C44 104 29 90 25 70Z" fill="#f5e4c7"/>
+  <path d="m43 71 9 4-9 2-8-5Zm42 0-9 4 9 2 8-5Z" fill="#171b24"/>
+  <path d="M58 90h12l-6 6Z" fill="#171b24"/>
+  <path d="M64 28 67 34 73 37 67 40 64 46 61 40 55 37 61 34Z" fill="#ffe19a"/>
+</svg>

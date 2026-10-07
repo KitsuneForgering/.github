@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="media/kitsuneforgering-mark.svg" alt="KitsuneForgering: a copper fox with a small forge spark" width="112">
+</p>
+
 # KitsuneForgering
 
 We build apps and desktop extensions for [Omarchy](https://omarchy.org/). If you use Omarchy and want to find apps, manage other operating systems, read feeds, edit video, or change the look of your desktop, start with the project that fits your task.
